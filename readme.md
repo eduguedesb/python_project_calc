@@ -13,5 +13,5 @@ Embora não seja uma calculadora científica, ela foi projetada para ser simples
 # Dependências:
 PyQt5: biblioteca de ferramentas multiplataforma para desenvolvimento de interfaces gráficas (GUI).
 
-# Como usar:
+# Como Usar:
 Execute o script com o seguinte comando: py calc.py ou python calc.py.
