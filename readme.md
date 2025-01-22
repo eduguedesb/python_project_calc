@@ -3,11 +3,17 @@ Este script implementa uma calculadora gráfica utilizando a biblioteca PyQt5, c
 
 # Funcionamento:
 Interface gráfica com botões organizados em uma grade.
+<br>
 Visor de resultados estilizado com fontes em negrito e alinhamento à direita.
+<br>
 Operações matemáticas básicas (adição, subtração, multiplicação, divisão) e avançadas (raiz quadrada, quadrado de um número, porcentagem).
+<br>
 Botões de controle: limpar (C), apagar o último caractere (⌫), inverter o sinal (±), entre outros.
+<br>
 Tratamento de erros para entradas inválidas, exibindo "Erro" quando aplicável.
+<br>
 Utiliza cores diferentes para operações matemáticas, botões numéricos e botões especiais, oferecendo uma interface visualmente agradável.
+<br>
 Embora não seja uma calculadora científica, ela foi projetada para ser simples, compacta e de fácil uso, com suporte a algumas funcionalidades comuns em calculadoras científicas.
 
 # Dependências:
