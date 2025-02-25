@@ -17,7 +17,7 @@ Utiliza cores diferentes para operações matemáticas, botões numéricos e bot
 Embora não seja uma calculadora científica, ela foi projetada para ser simples, compacta e de fácil uso, com suporte a algumas funcionalidades comuns em calculadoras científicas.
 
 # Dependências:
-PyQt5: biblioteca de ferramentas multiplataforma para desenvolvimento de interfaces gráficas (GUI).
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 Execute o script com o seguinte comando: py calc.py ou python calc.py.
